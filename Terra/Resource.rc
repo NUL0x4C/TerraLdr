@@ -1,0 +1,4 @@
+#include "Resource.h"
+
+
+TERRA_PAYLOAD RCDATA DataFile.terra
