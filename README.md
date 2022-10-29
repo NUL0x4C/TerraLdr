@@ -15,6 +15,9 @@ TerraLdr: A Payload Loader Designed With Advanced Evasion Features
 - stealthy remote process injection - chunking
 
 
+### Usage:
+- use [GenerateRsrc](https://github.com/ORCx41/TerraLdr/tree/main/Helper/GenerateRsrc) to update [DataFile.terra](https://github.com/ORCx41/TerraLdr/blob/main/Terra/DataFile.terra) that'll be the payload saved in the .rsrc section of the loader
+
 
 ### Thanks For:
 - https://offensivedefence.co.uk/posts/ntcreateuserprocess/
