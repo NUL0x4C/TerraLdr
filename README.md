@@ -13,6 +13,7 @@ TerraLdr: A Payload Loader Designed With Advanced Evasion Features
 - process injection - targetting 'SettingSyncHost.exe'
 - ppid spoofing & blockdlls policy using NtCreateUserProcess 
 - stealthy remote process injection - chunking
+- using debugging & NtQueueApcThread for payload execution 
 
 
 ### Usage:
@@ -24,4 +25,4 @@ TerraLdr: A Payload Loader Designed With Advanced Evasion Features
 - https://github.com/vxunderground/VX-API
 
 
-
+##### Tested with cobalt strike on windows 10
