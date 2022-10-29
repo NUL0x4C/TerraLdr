@@ -27,7 +27,7 @@ TerraLdr: A Payload Loader Designed With Advanced Evasion Features
 
 
 ### Profit:
-![image](https://user-images.githubusercontent.com/111295429/198824658-b9123d21-045a-43f7-8235-c08e14a26ff3.png)
+![ph2](https://user-images.githubusercontent.com/111295429/198824933-101d0641-d8b3-4cef-812d-0834cdb8cf0f.png)
 ![havoc](https://user-images.githubusercontent.com/111295429/198824884-ba516101-0b02-4ff7-94fb-65ce692e02ce.jpg)
 
 
