@@ -31,6 +31,8 @@ TerraLdr: A Payload Loader Designed With Advanced Evasion Features
 ![havoc](https://user-images.githubusercontent.com/111295429/198824884-ba516101-0b02-4ff7-94fb-65ce692e02ce.jpg)
 
 
+### Demo (by [@ColeVanlanding1](https://twitter.com/ColeVanlanding1)) :
+[![EmpireC2 TerraLDR vs AntiVirus](https://user-images.githubusercontent.com/111295429/199412734-de802fa6-0abc-4772-91de-9ca51f565bb1.png)](https://www.youtube.com/watch?v=z8imK4YyrtE "EmpireC2 TerraLDR vs AntiVirus")
 
 
 </br>
