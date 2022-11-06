@@ -25,6 +25,9 @@ TerraLdr: A Payload Loader Designed With Advanced Evasion Features
 - https://github.com/vxunderground/VX-API
 
 
+### Notes:
+  - "SettingSyncHost.exe" isnt found on windows 11 machine, while i didnt tested with w11, its a ~must~ to change the process name to something else before testing
+  - possibly it is better to compile with "ISO C++20 Standard (/std:c++20)"
 
 ### Profit:
 ![ph2](https://user-images.githubusercontent.com/111295429/198824933-101d0641-d8b3-4cef-812d-0834cdb8cf0f.png)
