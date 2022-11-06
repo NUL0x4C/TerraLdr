@@ -26,7 +26,7 @@ TerraLdr: A Payload Loader Designed With Advanced Evasion Features
 
 
 ### Notes:
-  - "SettingSyncHost.exe" isnt found on windows 11 machine, while i didnt tested with w11, its a ~must~ to change the process name to something else before testing
+  - "SettingSyncHost.exe" isnt found on windows 11 machine, while i didnt tested with w11, its a *must* to change the process name to something else before testing
   - possibly it is better to compile with "ISO C++20 Standard (/std:c++20)"
 
 ### Profit:
